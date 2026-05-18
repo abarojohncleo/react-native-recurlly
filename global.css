@@ -95,7 +95,7 @@
   }
 
   .home-balance-amount {
-    @apply text-4xl font-sans-extrabold text-white;
+    @apply text-3xl font-sans-extrabold text-white;
   }
 
   .home-balance-date {
